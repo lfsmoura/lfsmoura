@@ -13,11 +13,11 @@ I have a B.Sc. and M.Sc. in Computer Science from UFRGS and studied Systems Engi
 ## Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Every element in Tern, in one block](https://leomoura.org/2026/11/01/tern-elements-showcase/)
 - [How Implicit Is Your Code?](https://leomoura.org/2025/12/08/how-implicit-is-your-code/)
 - [npm install emotional-awareness](https://leomoura.org/2024/03/17/emotional-awareness-for-software-engineers/)
 - [Bringing Life to the Blockchain](https://leomoura.org/2023/11/15/briging-life-to-the-blockchain/)
 - [Intelligence Will Eat the World](https://leomoura.org/2023/04/23/intelligence-will-eat-the-world/)
-- [Introducing BlockSlots](https://leomoura.org/2023/03/10/blockslots-slot-machine-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Find me
